@@ -59,6 +59,10 @@ cd <your-new-repository>
 ```bash
 pnpm i
 ```
+Si no lo tienes instalado
+```bash
+npm install -g pnpm
+```
 
 ### 4. Get started
 
