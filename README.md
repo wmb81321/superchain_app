@@ -18,13 +18,19 @@ Get prototyping Superchain apps in under < 1 min! ❤️‍🔥
 Follow [this guide](https://book.getfoundry.sh/getting-started/installation) to install Foundry
 
 Review node version
-```bash   node -v```
+```bash
+node -v
+```
+
 Review     npm
-```bash npm -v```
+```bash
+npm -v
+```
 
 updating with homebew
- ```bash brew update
-   brew upgrade node
+ ```bash
+ brew update
+ brew upgrade node
 ```
 
 brew upgrade node
