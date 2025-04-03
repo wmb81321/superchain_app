@@ -17,6 +17,21 @@ Get prototyping Superchain apps in under < 1 min! ❤️‍🔥
 
 Follow [this guide](https://book.getfoundry.sh/getting-started/installation) to install Foundry
 
+Review node version
+```bash   node -v```
+Review     npm
+```bash npm -v```
+
+updating with homebew
+ ```bash brew update
+   brew upgrade node
+```
+
+brew upgrade node
+
+Install Foundry
+```bash curl -L https://foundry.paradigm.xyz | bash```
+
 ### 1. Create a new repository using this template:
 
 Click the "Use this template" button above on GitHub, or [generate directly](https://github.com/new?template_name=superchain-starter&template_owner=ethereum-optimism)
