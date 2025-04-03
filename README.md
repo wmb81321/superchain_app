@@ -33,10 +33,15 @@ updating with homebew
  brew upgrade node
 ```
 
-brew upgrade node
-
 Install Foundry
-```bash curl -L https://foundry.paradigm.xyz | bash```
+```bash 
+curl -L https://foundry.paradigm.xyz | bash
+```
+
+Run foundry
+```bash
+foundryup
+```
 
 ### 1. Create a new repository using this template:
 
